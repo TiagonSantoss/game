@@ -1,0 +1,43 @@
+{
+  "name": "_aaa_project",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "Source": {
+        "$path": "src/serverStorage"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/player"
+        }
+      }
+    },
+
+    "StarterCharacter": {
+      "$className": "StarterCharacterScripts",
+      "Source": {
+        "$path": "src/character"
+      }
+    }
+  }
+}
