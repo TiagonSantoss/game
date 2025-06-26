@@ -30,10 +30,9 @@
     },
 
     "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/player"
-        }
+      "$className": "StarterPlayerScripts",
+      "Source": {
+        "$path": "src/player"
       }
     },
 
