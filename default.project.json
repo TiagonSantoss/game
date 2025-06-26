@@ -5,7 +5,7 @@
 
     "ReplicatedStorage": {
       "Shared": {
-        "$path": "beta/shared"
+        "$path": "src/shared"
       },
       "Packages": {
         "$path": "Packages"
@@ -15,7 +15,7 @@
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "Source": {
-        "$path": "beta/server"
+        "$path": "src/server"
       },
       "ServerPackages": {
         "$path": "ServerPackages"
@@ -25,21 +25,21 @@
     "ServerStorage": {
       "$className": "ServerStorage",
       "Source": {
-        "$path": "beta/serverStorage"
+        "$path": "src/serverStorage"
       }
     },
 
     "StarterPlayer": {
       "$className": "StarterPlayerScripts",
       "Source": {
-        "$path": "beta/player"
+        "$path": "src/player"
       }
     },
 
     "StarterCharacter": {
       "$className": "StarterCharacterScripts",
       "Source": {
-        "$path": "beta/character"
+        "$path": "src/character"
       }
     }
   }
